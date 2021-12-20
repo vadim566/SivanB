@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SivanB</string>
+    <string name="newAppoiment">זימון תור</string>
+    <string name="price_view">צפייה במחירון</string>
+    <string name="todo">TODO</string>
+    <string name="help">עזרה</string>
+    <string name="LAK_GEL">לק ג\'ל</string>
+    <string name="BUILD_ACRYL">בנייה באקריל</string>
+    <string name="LAK_PEDIKUR">פדיקור ספא</string>
+    <string name="LAK_GEL_FILL">מילוי ג\'ל</string>
+    <string name="LAK_FILL_ACRYL">מילוי אקריל</string>
+    <string name="LAK_NORMAL">לק רגיל</string>
+    <string name="return_menue">לתפריט הראשי</string>
+
+</resources>
